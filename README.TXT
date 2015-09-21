@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Final exam calculator
+PURPOSE OF PROJECT: To calculate the final exam grade needed to get a certain grade in a class.
+VERSION or DATE: May 2013
+AUTHORS: Yash Tulsiani
