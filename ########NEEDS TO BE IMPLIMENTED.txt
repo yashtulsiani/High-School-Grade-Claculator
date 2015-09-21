@@ -1,0 +1,8 @@
+If cancel option or X button pressed on any screen the program crashes. Make it so cancel takes user to home menu
+Crashing if a nonumber is entered into program (student ID)
+Exit on close option. ie: x button pressed, close menu.
+Add a command that lets you view all student data
+*Possible:recreate student with a 2D array that stores multiple semeter grades. Then you can also give final exam score to calculate GPA
+	Checkbox to ask if it is honors/AP class
+	Outputs unweighted and weighted GPA
+	If added, the way the file saves needs to be changed
